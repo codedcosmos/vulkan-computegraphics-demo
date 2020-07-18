@@ -1,4 +1,4 @@
-# vulkan-computegraphics-demo
+# Vulkan Compute/Graphics Demo
 ### By codedcosmos
 
 It is just simple example that uses compute on the gpu to generate triangles and creates a model to render to the screen using the vulkan api.
